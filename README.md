@@ -1,6 +1,6 @@
 ## Gresces (Guo Yangfan)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gresces&layout=compact&count_private=true&theme=radical">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gresces&layout=compact&count_private=true&theme=radical&hide=javascript">
 
 - 🔭 I’m currently studying at Harbin Institute of Technology(HIT).
 - 🌱 I’m currently learning functional programming and mordern C++.
